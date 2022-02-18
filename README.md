@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Szadegan
+- 👀 I’m interested in cloude
+- 🌱 I’m currently learning AWS, K8S, Terrform, Prometheus
+- 💞️ I’m looking to collaborate on all above
